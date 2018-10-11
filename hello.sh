@@ -1,3 +1,3 @@
 #!/bin/sh
 
-xargs echo -n hello
+xargs echo -n $GREETING 
